@@ -1,0 +1,23 @@
+body { background-image: url('Attach-BG.jpg'); 
+  background:linear-gradient(rgba(0,0,0,0.5),#070F2B) ,url(Attach-BG.jpg);
+  background-size: cover; }
+
+p { font-family: COD-Ops; font-size: 40px;
+-webkit-text-stroke: 3px #E0E5E5; }
+img { height: 400px; width: 800px; 
+  border-radius: 30px; border: 5px solid #4D4D4F; 
+  border-style: solid; border-width: 5px;
+  border-left-width: 15px; border-right-width: 15px; }
+
+header { font-family: TheLastCall; -webkit-text-stroke: 0.5px #686A6C; gap: 10px; }
+a.button { color: #FFFFFF; text-decoration: none; gap: 10px; }
+  a.button:hover { color: #660000; text-decoration: none; }
+  .button { text-align: left; margin-left: 20px; border: none; font-size: 40px; }
+
+h1 { text-align: center; }
+h2 { margin-left: 20px; }
+.text-design { font-family: TheLastCall; font-size: 50px;
+  -webkit-text-stroke: 0.5px #36454F; color: #BCC6CC; gap: 10px; }
+.align { text-align: center; }
+.label { font-family: TheLastCall; font-size: 40px;
+  -webkit-text-stroke: 0.1px #E0E5E5; color: #71797E; gap: 10px; }

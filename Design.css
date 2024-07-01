@@ -1,0 +1,22 @@
+body { background-image: url('Gun-Home.jpeg'); 
+  background:linear-gradient(rgba(0.6,0.6,0.8,0.6),#B9B4C7) ,url(Gun-Home.jpeg);
+  background-size: cover; }
+
+h1 { text-align: center; }
+img { height: 200px; width: 300px;
+  border-radius: 100px; border: 20px solid #F1E5D1; 
+  border-style: solid; border-width: 5px;
+  border-left-width: 15px; border-right-width: 15px; }
+b { font-family: TheLastCall; -webkit-text-stroke: 0.2px #686D76; color: #FFDA78; }
+header { font-family: TheLastCall; -webkit-text-stroke: 0.3px #F0A500;
+   font-size: 20px; }
+
+a.button { color: #C0C6C7; text-decoration: none; gap: 10px; }
+  a.button:hover { color: #990000; text-decoration: none; }
+  .button { text-align: left; margin-left: 20px; border: none; font-size: 40px; }
+  .grid-container { display: grid; text-align: center; margin-top: 120px; margin-left: 20px;
+      grid-template-columns: 300px 300px;
+      grid-template-rows: 180px 180px 180px; grid-gap: 250px; }
+  .label { text-align: center; font-family: TheLastCall; font-size: 50px;
+      -webkit-text-stroke: 0.15px #686D76; color: #FFDA78;  }
+
